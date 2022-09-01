@@ -31,6 +31,8 @@ extension Person {
                 surname: dataManager.surnames.randomElement() ?? "Some surname",
                 email: dataManager.emailAdresses.randomElement() ?? "Some email",
                 phoneNumber: dataManager.phoneNumbers.randomElement() ?? "Some phone number")]
+        
+        
     }
 }
 
